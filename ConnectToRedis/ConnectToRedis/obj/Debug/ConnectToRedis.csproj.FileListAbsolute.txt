@@ -1,0 +1,1 @@
+D:\Projects\Learnings\POC\Azure\ConnectToRedis\ConnectToRedis\bin\Debug\ConnectToRedis.exe.config

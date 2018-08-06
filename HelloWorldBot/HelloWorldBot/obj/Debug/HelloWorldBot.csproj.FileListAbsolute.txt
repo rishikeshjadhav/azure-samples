@@ -1,0 +1,52 @@
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Bot Application.dll.config
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Bot Application.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Bot Application.pdb
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Autofac.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Chronic.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Autofac.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.Bot.Connector.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Logging.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\Newtonsoft.Json.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\System.Net.Http.Formatting.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\System.Web.Http.WebHost.xml
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\obj\Debug\HelloWorldBot.csprojResolveAssemblyReference.cache
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\obj\Debug\HelloWorldBot.csproj.CoreCompileInputs.cache
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\obj\Debug\Bot Application.dll
+D:\Projects\Learnings\POC\Azure\HelloWorldBot\HelloWorldBot\obj\Debug\Bot Application.pdb

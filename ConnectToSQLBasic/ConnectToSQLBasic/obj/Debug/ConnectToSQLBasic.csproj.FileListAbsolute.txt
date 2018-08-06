@@ -1,0 +1,6 @@
+D:\Projects\Learnings\POC\Azure\ConnectToSQLBasic\ConnectToSQLBasic\bin\Debug\ConnectToSQLBasic.exe.config
+D:\Projects\Learnings\POC\Azure\ConnectToSQLBasic\ConnectToSQLBasic\bin\Debug\ConnectToSQLBasic.exe
+D:\Projects\Learnings\POC\Azure\ConnectToSQLBasic\ConnectToSQLBasic\bin\Debug\ConnectToSQLBasic.pdb
+D:\Projects\Learnings\POC\Azure\ConnectToSQLBasic\ConnectToSQLBasic\obj\Debug\ConnectToSQLBasic.csprojResolveAssemblyReference.cache
+D:\Projects\Learnings\POC\Azure\ConnectToSQLBasic\ConnectToSQLBasic\obj\Debug\ConnectToSQLBasic.exe
+D:\Projects\Learnings\POC\Azure\ConnectToSQLBasic\ConnectToSQLBasic\obj\Debug\ConnectToSQLBasic.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\ConnectDocumentDBAPI.exe.config
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\DocumentDB.Spatial.Sql.dll
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\ConnectDocumentDBAPI.exe
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\ConnectDocumentDBAPI.pdb
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\obj\Debug\ConnectDocumentDBAPI.exe
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\obj\Debug\ConnectDocumentDBAPI.pdb
+D:\Projects\Learnings\POC\Azure\ConnectDocumentDBAPI\ConnectDocumentDBAPI\obj\Debug\ConnectDocumentDBAPI.csprojResolveAssemblyReference.cache
